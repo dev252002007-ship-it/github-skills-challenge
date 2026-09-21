@@ -5,6 +5,7 @@ on:
     branches:
       - main
 
+# Assessment validation workflow
 jobs:
   test:
     runs-on: ubuntu-latest
